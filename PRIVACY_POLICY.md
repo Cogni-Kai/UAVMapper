@@ -17,19 +17,6 @@ UAV Mapper requests storage access to:
 * Storage access is limited to essential app functionalities
 * No automatic uploading of user data to external servers
 
-### Location Permissions
-UAV Mapper uses location services to:
-* Track user position during field operations
-* Enable real-time navigation with generated orthophotos
-* Provide precise location context for field activities
-* Support efficient field navigation and mapping workflows
-
-### Location Data Management
-* Location tracking is active only during active app usage
-* GPS coordinates are used solely for real-time positioning
-* Users can disable location tracking at any time
-* Location data remains private and is not shared with third parties
-
 ## User Consent and Control
 
 By using UAV Mapper, users consent to permissions for storage access and location tracking. Complete control over permission settings remains with the user through their device settings.
